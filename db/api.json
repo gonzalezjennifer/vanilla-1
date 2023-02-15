@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Random 1",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 550,
+        "id": 2,
+        "title": "Random 2",
+        "imageUrl": "https://picsum.photos/id/5/600"
+    },
+    {
+        "precio": 600,
+        "id": 3,
+        "title": "Random 3",
+        "imageUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 650,
+        "id": 4,
+        "title": "Random 4",
+        "imageUrl": "https://picsum.photos/id/15/600"
+    },
+    {
+        "precio": 700,
+        "id": 5,
+        "title": "Random 5",
+        "imageUrl": "https://picsum.photos/id/25/600"
+    },
+    {
+        "precio": 750,
+        "id": 6,
+        "title": "Random 6",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 800,
+        "id": 7,
+        "title": "Random 7",
+        "imageUrl": "https://picsum.photos/id/35/600"
+    },
+    {
+        "precio": 850,
+        "id": 8,
+        "title": "Random 8",
+        "imageUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 900,
+        "id": 9,
+        "title": "Random 9",
+        "imageUrl": "https://picsum.photos/id/45/600"
+    },
+    {
+        "precio": 950,
+        "id": 10,
+        "title": "Random 10",
+        "imageUrl": "https://picsum.photos/id/50/600"
+    }
+]
